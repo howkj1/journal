@@ -8,6 +8,10 @@
   "directories": {
     "doc": "docs"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/howkj1/journal.git"
+  },
   "scripts": {
     "preinstall": "curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash; . ~/.nvm/nvm.sh; nvm install 5; nvm use 5",
     "postinstall": "gitbook install",
@@ -36,7 +40,7 @@
   "devDependencies": {
     "gitbook-cli": "^2.3.0",
     "markdown-spellcheck": "^0.11.0",
-    "npm-run-all": "^4.0.2",
+    "npm-run-all": "^4.1.2",
     "plop": "^1.8.1",
     "react": "^15.4.2",
     "rimraf": "2.5.4"

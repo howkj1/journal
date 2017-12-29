@@ -8,6 +8,10 @@
   "directories": {
     "doc": "docs"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/howkj1/journal.git"
+  },
   "scripts": {
     "preinstall": "curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash; . ~/.nvm/nvm.sh; nvm install 5; nvm use 5",
     "postinstall": "gitbook install",
