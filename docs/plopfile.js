@@ -23,7 +23,7 @@ module.exports = function (plop) {
         }],
         actions: function(data) {
             var actions = [];
- 
+
             actions.push({
                 type: 'add',
                 path: 'articles/{{snakeCase name}}.md',
@@ -43,7 +43,7 @@ module.exports = function (plop) {
                     templateFile: 'plop/summary-template.md'
                 });
             }
- 
+
             return actions;
         }
     });
