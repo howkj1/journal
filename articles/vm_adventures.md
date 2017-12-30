@@ -1,3 +1,0 @@
-*DRAFT*
-
-*To Be Continued...*
