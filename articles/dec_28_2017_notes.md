@@ -58,7 +58,7 @@
 
 
 
-* [(11) Allison Cronk | LinkedIn](https://www.linkedin.com/in/allisoncronk/\)
+* [Allison Cronk | LinkedIn](https://www.linkedin.com/in/allisoncronk/\)
 
 
 
