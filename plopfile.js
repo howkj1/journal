@@ -5,12 +5,12 @@ module.exports = function (plop) {
             {
             type: 'input',
             name: 'link',
-            message: 'link to online stuff?'
+            message: 'paste link to online stuff or type summary; enter to continue: \n'
         },
             {
             type: 'input',
             name: 'name',
-            message: 'Your new article name?',
+            message: 'Your new article name: \n',
             validate: function (value) {
                 if ((/.+/).test(value)) { return true; }
                 return 'name is required';
