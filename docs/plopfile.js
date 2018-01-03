@@ -5,12 +5,12 @@ module.exports = function (plop) {
             {
             type: 'input',
             name: 'link',
-            message: 'link?'
+            message: 'link to online stuff?'
         },
             {
             type: 'input',
             name: 'name',
-            message: 'Article name?',
+            message: 'Your new article name?',
             validate: function (value) {
                 if ((/.+/).test(value)) { return true; }
                 return 'name is required';
@@ -19,11 +19,11 @@ module.exports = function (plop) {
             {
             type: 'confirm',
             name: 'draft',
-            message: 'Draft?'
+            message: 'Is this still a Draft?'
         }],
         actions: function(data) {
             var actions = [];
- 
+
             actions.push({
                 type: 'add',
                 path: 'articles/{{snakeCase name}}.md',
@@ -43,7 +43,7 @@ module.exports = function (plop) {
                     templateFile: 'plop/summary-template.md'
                 });
             }
- 
+
             return actions;
         }
     });
