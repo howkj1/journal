@@ -1,4 +1,4 @@
-#{{properCase name}} 
+# {{properCase name}} 
 
-##{{titleCase name}}
+## {{titleCase name}}
 [{{link}}]({{link}})
