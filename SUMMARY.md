@@ -9,6 +9,7 @@
 
   * [2018]()
   
+    * [Keystone And Salt Network Using Di Gi Co](articles/keystone_and_salt_network_using_di_gi_co.md)
 * [Drafts]()
     * [Dec 28 2017 Notes](articles/dec_28_2017_notes.md)
     * [Generational Transfer](articles/generational_transfer.md)
