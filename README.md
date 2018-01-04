@@ -23,7 +23,7 @@ Hosting provided by [github](https://github.com/howkj1/journal).
 * [plop](https://github.com/amwmedia/plop) : modified to suit gitbook article generation automation.
 * [gitbook plugins:](https://github.com/howkj1/journal/blob/master/book.json) : [disqus](), [etoc](), [summary](), [youtube](), ... see [codebase](https://github.com/howkj1/journal/blob/master/book.json).
 * [json](https://www.json.org/) - structured data; node uses package.json and book.json files to help guide the build of this gitbook.
-* [javascript](https://gitbookio.gitbooks.io/javascript/content/)  - plop uses js in plopfile.js to guide user interaction on the command prompt for automation in generating new gitbook articles. ![computer programming is magic](https://gitbookio.gitbooks.io/javascript/content/assets/intro.png)
+* [javascript](https://gitbookio.gitbooks.io/javascript/content/)  - plop uses js in plopfile.js to guide user interaction on the command prompt for automation in generating new gitbook articles. ![How does computer programming work? Magic.](https://gitbookio.gitbooks.io/javascript/content/assets/intro.png)
 * [markdown](https://en.wikipedia.org/wiki/Markdown) : [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) - as opposed to markup (html I'm looking at you!)... write your content once using markdown formatting and then wherever it gets posted it takes on the styling characteristics of that site/style.
 
 
