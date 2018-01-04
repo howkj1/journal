@@ -6,7 +6,11 @@
   * [2017]()
     * [Storybook](articles/storybook.md)
     * [Writing An Article](articles/writing_an_article.md)
+
+  * [2018]()
+  
 * [Drafts]()
     * [Dec 28 2017 Notes](articles/dec_28_2017_notes.md)
     * [Generational Transfer](articles/generational_transfer.md)
     * [Master Usability Testing And UX Research](articles/master_usability_testing_and_ux_research.md)
+    * [To Be Continued](articles/to_be_continued.md)
