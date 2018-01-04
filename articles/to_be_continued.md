@@ -38,6 +38,7 @@
 * rewrite drink for universal useage,
 * journal on ATS/ETS2 include pics and thoughts as well as copilots,
 * writeup on ATS/ETS2 tripple monitors and controller/wheel settings and graphics settings,
+* ATS/ETS2 Christmas gift delivery challenge ["Grand Gift Delivery 2017"](http://steamcommunity.com/games/americantrucksimulator/announcements/detail/1578940707937049194) --> wreckless driving :p
 * journal about DAB and DAB Chronilogical,
 * Promote Funk Travels and mention ETS2,
 * discuss invoicing and how that process needs to improve,
