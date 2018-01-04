@@ -4,10 +4,14 @@
 
 [info] This article was originally started as an email to the music and tech leaders at Keystone Church in Ankeny,IA on Thursday January 4, 2018 after reading an article from Worship Facilities Magazine.
 
+Keystone is currently using the DiGiCo SD9 console for front-of-house (mains) and monitor mixing.
+
+![Liberty University School of Music’s performance hall which grew out of Thomas Road Baptist Church.](http://www.worshipfacilities.com/images/main_article/Digico_church.jpg)
+
 
 I was blown away when I read this article and thought I should share it with you!
 
-<i>Thomas Road Baptist Church and Liberty University Upgrade With DiGiCo - Largest evangelical Christian university in the world, and the church where it grew from, renews workflows with SD5, SD10 and SD11 consoles.</i>
+_Thomas Road Baptist Church and Liberty University Upgrade With DiGiCo - Largest evangelical Christian university in the world, and the church where it grew from, renews workflows with SD5, SD10 and SD11 consoles._
 http://www.worshipfacilities.com/article/thomas_road_baptist_church_and_liberty_university_upgrade_with_digico
 
 It is both encouraging and exciting to be growing on a platform that is gaining traction in venues that exist at a large scale (that Keystone and the Salt Network are swiftly chasing).
