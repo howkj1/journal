@@ -11,3 +11,5 @@
   
     * [Keystone And Salt Network Using Di Gi Co](articles/keystone_and_salt_network_using_di_gi_co.md)
     * [Preprep](articles/preprep.md)
+    * [Conquering Northern China](articles/conquering_northern_china.md)
+    * [Sheepit Rendering Farm](articles/sheepit_rendering_farm.md)

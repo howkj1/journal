@@ -11,9 +11,12 @@
   
     * [Keystone And Salt Network Using Di Gi Co](articles/keystone_and_salt_network_using_di_gi_co.md)
     * [Preprep](articles/preprep.md)
+    * [Conquering Northern China](articles/conquering_northern_china.md)
+    * [Sheepit Rendering Farm](articles/sheepit_rendering_farm.md)
 * [Drafts]()
     * [Dec 28 2017 Notes](articles/dec_28_2017_notes.md)
     * [Generational Transfer](articles/generational_transfer.md)
     * [Master Usability Testing And UX Research](articles/master_usability_testing_and_ux_research.md)
     * [To Be Continued](articles/to_be_continued.md)
     * [Flask Lambda Lab Photo Gallery](articles/flask_lambda_lab_photo_gallery.md)
+    * [Washington Dc Heritage Tours](articles/washington_dc_heritage_tours.md)
