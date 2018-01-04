@@ -45,3 +45,7 @@ Thank you all for not only serving but for all of the hard work behind the scene
 Thanks and have an awesome day!,
 
 - Jim
+
+
+Related Reading :
+https://www.avinteractive.com/news/audio/liberty-university-amplifies-return-investment-dante-networking-17-11-2017/
