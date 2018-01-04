@@ -1,8 +1,4 @@
----
 
-disqus: false
-
----
 
 [<img src="../journal/images/avatar.png" width="150">](https://howkj1.github.io/journal/)
 
@@ -11,4 +7,11 @@ disqus: false
 | [<i class="fa fa-twitter" aria-hidden="true"></i> howkj1](https://twitter.com/howkj1)
 
 
-# test text
+# About
+
+This GitBook is part journal, part blog, in conjunction with [jimhowk.com](http://www.jimhowk.com) and 
+
+
+
+
+https://github.com/tuchk4/storybook-readme
