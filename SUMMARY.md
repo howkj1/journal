@@ -14,6 +14,7 @@
     * [Conquering Northern China](articles/conquering_northern_china.md)
     * [Sheepit Rendering Farm](articles/sheepit_rendering_farm.md)
     * [Google Drive On Ubuntu 16 04](articles/google_drive_on_ubuntu_16_04.md)
+    * [Blender Animated Creek](articles/blender_animated_creek.md)
 * [Drafts]()
     * [Dec 28 2017 Notes](articles/dec_28_2017_notes.md)
     * [Generational Transfer](articles/generational_transfer.md)
@@ -23,3 +24,4 @@
     * [Washington Dc Heritage Tours](articles/washington_dc_heritage_tours.md)
     * [Parenting Peanut Tree Nut Allergy](articles/parenting_peanut_tree_nut_allergy.md)
     * [Lisp](articles/lisp.md)
+    * [Jekyll Conditionals](articles/jekyll_conditionals.md)

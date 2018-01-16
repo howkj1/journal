@@ -7,3 +7,4 @@
     * [Washington Dc Heritage Tours](articles/washington_dc_heritage_tours.md)
     * [Parenting Peanut Tree Nut Allergy](articles/parenting_peanut_tree_nut_allergy.md)
     * [Lisp](articles/lisp.md)
+    * [Jekyll Conditionals](articles/jekyll_conditionals.md)

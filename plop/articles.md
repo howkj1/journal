@@ -14,3 +14,4 @@
     * [Conquering Northern China](articles/conquering_northern_china.md)
     * [Sheepit Rendering Farm](articles/sheepit_rendering_farm.md)
     * [Google Drive On Ubuntu 16 04](articles/google_drive_on_ubuntu_16_04.md)
+    * [Blender Animated Creek](articles/blender_animated_creek.md)
