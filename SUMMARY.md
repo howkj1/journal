@@ -15,6 +15,7 @@
     * [Sheepit Rendering Farm](articles/sheepit_rendering_farm.md)
     * [Google Drive On Ubuntu 16 04](articles/google_drive_on_ubuntu_16_04.md)
     * [Blender Animated Creek](articles/blender_animated_creek.md)
+    * [Dsm Arcade](articles/dsm_arcade.md)
 * [Drafts]()
     * [Dec 28 2017 Notes](articles/dec_28_2017_notes.md)
     * [Generational Transfer](articles/generational_transfer.md)
