@@ -27,3 +27,4 @@
     * [Parenting Peanut Tree Nut Allergy](articles/parenting_peanut_tree_nut_allergy.md)
     * [Lisp](articles/lisp.md)
     * [Jekyll Conditionals](articles/jekyll_conditionals.md)
+    * [8bit Gif Generator](articles/8bit_gif_generator.md)
