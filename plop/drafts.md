@@ -9,3 +9,7 @@
     * [Lisp](articles/lisp.md)
     * [Jekyll Conditionals](articles/jekyll_conditionals.md)
     * [8bit Gif Generator](articles/8bit_gif_generator.md)
+    * [Day In The Life Video Game Designer](articles/day_in_the_life_video_game_designer.md)
+    * [Helpful Links Dev Tools](articles/helpful_links_dev_tools.md)
+    * [Right To Repair](articles/right_to_repair.md)
+    * [Web Analytics](articles/web_analytics.md)

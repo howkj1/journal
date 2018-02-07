@@ -17,3 +17,4 @@
     * [Blender Animated Creek](articles/blender_animated_creek.md)
     * [Dsm Arcade](articles/dsm_arcade.md)
     * [Pixa Tool](articles/pixa_tool.md)
+    * [The Glory Of God Vs Gear](articles/the_glory_of_god_vs_gear.md)
