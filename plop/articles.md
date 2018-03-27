@@ -19,3 +19,4 @@
     * [Pixa Tool](articles/pixa_tool.md)
     * [The Glory Of God Vs Gear](articles/the_glory_of_god_vs_gear.md)
     * [Procedural Nodes In Blender Guide](articles/procedural_nodes_in_blender_guide.md)
+    * [Enable Restricted Codecs To Play Dv Ds](articles/enable_restricted_codecs_to_play_dv_ds.md)
