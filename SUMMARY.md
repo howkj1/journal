@@ -1,38 +1,67 @@
-# Summary
-* [README](README.md)
 
-* [Articles]()
+## articles
 
-  * [2017]()
-    * [Storybook](articles/storybook.md)
-    * [Writing An Article](articles/writing_an_article.md)
+- [8bitGifGenerator](articles/8bit_gif_generator.md)
+- [Article](articles/article.md)
+- [BlenderAnimatedCreek](articles/blender_animated_creek.md)
+- [ConqueringNorthernChina](articles/conquering_northern_china.md)
+- [DayInTheLifeVideoGameDesigner](articles/day_in_the_life_video_game_designer.md)
+- [Non Curated Notes December 2017](articles/dec_28_2017_notes.md)
+- [DsmArcade](articles/dsm_arcade.md)
+- [EnableRestrictedCodecsToPlayDvDs](articles/enable_restricted_codecs_to_play_dv_ds.md)
+- [FlaskLambdaLabPhotoGallery](articles/flask_lambda_lab_photo_gallery.md)
+- [GenerationalTransfer](articles/generational_transfer.md)
+- [GoogleDriveOnUbuntu](articles/google_drive_on_ubuntu_16_04.md)
+- [HelpfulLinksDevTools](articles/helpful_links_dev_tools.md)
+- [HowToUpgradePfsense](articles/how_to_upgrade_pfsense_2_3_x_to_2_4_x.md)
+- [JekyllConditionals](articles/jekyll_conditionals.md)
+- [Keystone And Salt Network Using DiGiCo](articles/keystone_and_salt_network_using_di_gi_co.md)
+- [Lisp](articles/lisp.md)
+- [Master Usability Testing And UX Research](articles/master_usability_testing_and_ux_research.md)
+- [ParentingPeanutTreeNutAllergy](articles/parenting_peanut_tree_nut_allergy.md)
+- [PixaTool](articles/pixa_tool.md)
+- [Preprep](articles/preprep.md)
+- [ProceduralNodesInBlenderGuide](articles/procedural_nodes_in_blender_guide.md)
+- [RightToRepair](articles/right_to_repair.md)
+- [SheepitRenderingFarm](articles/sheepit_rendering_farm.md)
+- [StarCraftRemasteredOnLinux](articles/star_craft_remastered_on_linux.md)
+- [Storybook](articles/storybook.md)
+- [TheGloryOfGodVsGear](articles/the_glory_of_god_vs_gear.md)
+- [ToBeContinued](articles/to_be_continued.md)
+- [WashingtonDcHeritageTours](articles/washington_dc_heritage_tours.md)
+- [WebAnalytics](articles/web_analytics.md)
+- [Writing An Article](articles/writing_an_article.md)
 
-  * [2018]()
-  
-    * [Keystone And Salt Network Using Di Gi Co](articles/keystone_and_salt_network_using_di_gi_co.md)
-    * [Preprep](articles/preprep.md)
-    * [Conquering Northern China](articles/conquering_northern_china.md)
-    * [Sheepit Rendering Farm](articles/sheepit_rendering_farm.md)
-    * [Google Drive On Ubuntu 16 04](articles/google_drive_on_ubuntu_16_04.md)
-    * [Blender Animated Creek](articles/blender_animated_creek.md)
-    * [Dsm Arcade](articles/dsm_arcade.md)
-    * [Pixa Tool](articles/pixa_tool.md)
-    * [The Glory Of God Vs Gear](articles/the_glory_of_god_vs_gear.md)
-    * [Procedural Nodes In Blender Guide](articles/procedural_nodes_in_blender_guide.md)
-    * [Enable Restricted Codecs To Play Dv Ds](articles/enable_restricted_codecs_to_play_dv_ds.md)
-    * [Star Craft Remastered On Linux](articles/star_craft_remastered_on_linux.md)
-* [Drafts]()
-    * [Dec 28 2017 Notes](articles/dec_28_2017_notes.md)
-    * [Generational Transfer](articles/generational_transfer.md)
-    * [Master Usability Testing And UX Research](articles/master_usability_testing_and_ux_research.md)
-    * [To Be Continued](articles/to_be_continued.md)
-    * [Flask Lambda Lab Photo Gallery](articles/flask_lambda_lab_photo_gallery.md)
-    * [Washington Dc Heritage Tours](articles/washington_dc_heritage_tours.md)
-    * [Parenting Peanut Tree Nut Allergy](articles/parenting_peanut_tree_nut_allergy.md)
-    * [Lisp](articles/lisp.md)
-    * [Jekyll Conditionals](articles/jekyll_conditionals.md)
-    * [8bit Gif Generator](articles/8bit_gif_generator.md)
-    * [Day In The Life Video Game Designer](articles/day_in_the_life_video_game_designer.md)
-    * [Helpful Links Dev Tools](articles/helpful_links_dev_tools.md)
-    * [Right To Repair](articles/right_to_repair.md)
-    * [Web Analytics](articles/web_analytics.md)
+## course-player
+
+
+## docs
+
+
+## gitbook
+
+- [fonts]()
+    - [fontawesome]()
+- [gitbook-plugin-fontsettings]()
+- [gitbook-plugin-highlight]()
+- [gitbook-plugin-livereload]()
+- [gitbook-plugin-lunr]()
+- [gitbook-plugin-search]()
+- [gitbook-plugin-sharing]()
+- [images]()
+
+## images
+
+
+## plop
+
+- [](plop/article-template.md)
+- [article_blank.md](plop/article_blank.md)
+- [Summary](plop/articles.md)
+- [draft_blank.md](plop/draft_blank.md)
+- [drafts.md](plop/drafts.md)
+- [summary-template.md](plop/summary-template.md)
+
+## resume
+
+- [public]()
