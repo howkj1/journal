@@ -31,9 +31,7 @@
 - [WashingtonDcHeritageTours](articles/washington_dc_heritage_tours.md)
 - [WebAnalytics](articles/web_analytics.md)
 - [Writing An Article](articles/writing_an_article.md)
-
-## course-player
-
+- [ZeroToAaaIn](articles/zero_to_aaa_in_4_years_maarten_hof_blender.md)
 
 ## docs
 
