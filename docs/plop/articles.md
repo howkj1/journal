@@ -23,3 +23,6 @@
     * [Star Craft Remastered On Linux](articles/star_craft_remastered_on_linux.md)
     * [How To Upgrade Pfsense 2 3 X To 2 4 X](articles/how_to_upgrade_pfsense_2_3_x_to_2_4_x.md)
     * [Zero To Aaa In 4 Years Maarten Hof Blender](articles/zero_to_aaa_in_4_years_maarten_hof_blender.md)
+    * [Blink Hdd Led In Linux](articles/blink_hdd_led_in_linux.md)
+    * [Mac Os X Vm On Ubuntu](articles/mac_os_x_vm_on_ubuntu.md)
+    * [Senior Software Engineer Book](articles/senior_software_engineer_book.md)
