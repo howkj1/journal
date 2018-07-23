@@ -13,8 +13,8 @@
     "url": "git://github.com/howkj1/journal.git"
   },
   "scripts": {
-    "preinstall": "curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.1/install.sh | bash; . ~/.nvm/nvm.sh; nvm install 8 && nvm use 8",
-    "postinstall": "gitbook install",
+    "preinstall": "curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.11/install.sh | bash; . ~/.nvm/nvm.sh; nvm i --lts",
+    "postinstall": "node --version; gitbook install",
     "serve": "gitbook serve",
     "go": "npm i; npm start",
     "start": "npm-run-all -l docs:*",
@@ -49,6 +49,7 @@
     "gitbook-plugin-disqus": "^0.1.0",
     "gitbook-plugin-etoc": "^1.2.2",
     "gitbook-plugin-summary": "^1.0.0",
-    "gitbook-plugin-youtube": "^1.1.0"
+    "gitbook-plugin-youtube": "^1.1.0",
+    "watchman": "^1.0.0"
   }
 }
