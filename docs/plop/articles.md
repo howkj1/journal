@@ -26,3 +26,4 @@
     * [Blink Hdd Led In Linux](articles/blink_hdd_led_in_linux.md)
     * [Mac Os X Vm On Ubuntu](articles/mac_os_x_vm_on_ubuntu.md)
     * [Senior Software Engineer Book](articles/senior_software_engineer_book.md)
+    * [3 D Portrait Modeled Without Scans Looks Real](articles/3_d_portrait_modeled_without_scans_looks_real.md)

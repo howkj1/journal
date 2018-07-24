@@ -1,6 +1,7 @@
 
 ## articles
 
+- [3DPortraitModeledWithoutScansLooksReal](articles/3_d_portrait_modeled_without_scans_looks_real.md)
 - [8bitGifGenerator](articles/8bit_gif_generator.md)
 - [Article](articles/article.md)
 - [BlenderAnimatedCreek](articles/blender_animated_creek.md)
