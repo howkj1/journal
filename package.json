@@ -27,7 +27,7 @@
     "docs:cleanup": "rm ./plop/article_* ; touch ./plop/article_blank.md; rm ./plop/draft_*; touch ./plop/draft_blank.md;",
     "docs:build": "gitbook build ./ ./docs",
     "docs:status": "git status",
-    "docs:git_master": "git add . && git commit -am 'gitbook updates'&& git push journal master",
+    "docs:git_master": "git add . && git commit -am 'gitbook updates'&& git push origin master",
     "wip:clean": "rimraf _book",
     "wip:git_gh_pages": "cd _book; rm ./.gitignore; git commit --allow-empty -m 'ghpages: Update docs and examples' && touch .nojekyll && git add . && git commit -am 'Update docs and examples' && git checkout -b gh-pages; git push --set-upstream journal gh-pages; git fetch; git rebase gh-pages;  git push git@github.com:howkj1/journal.git gh-pages --force"
   },
