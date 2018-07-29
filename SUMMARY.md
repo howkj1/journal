@@ -3,6 +3,7 @@
 
 - [3DPortraitModeledWithoutScansLooksReal](articles/3_d_portrait_modeled_without_scans_looks_real.md)
 - [8bitGifGenerator](articles/8bit_gif_generator.md)
+- [ANewWayToLookAtJulyJonAcuff](articles/a_new_way_to_look_at_july_jon_acuff.md)
 - [Article](articles/article.md)
 - [BlenderAnimatedCreek](articles/blender_animated_creek.md)
 - [BlinkHddLedInLinux](articles/blink_hdd_led_in_linux.md)
