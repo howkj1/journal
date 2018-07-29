@@ -36,6 +36,7 @@
 - [USUnemployment](articles/u_s_unemployment_48_year_low.md)
 - [WashingtonDcHeritageTours](articles/washington_dc_heritage_tours.md)
 - [WebAnalytics](articles/web_analytics.md)
+- [WhyIHiredAGirlOnCraigslistToSlapMeInTheFaceAndHowItQuadrupledMyProductivity](articles/why_i_hired_a_girl_on_craigslist_to_slap_me_in_the_face_and_how_it_quadrupled_my_productivity.md)
 - [Writing An Article](articles/writing_an_article.md)
 - [ZeroToAaaIn](articles/zero_to_aaa_in_4_years_maarten_hof_blender.md)
 
